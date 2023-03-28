@@ -1,0 +1,13 @@
+ojq:
+  name: Jinquan_Ou fileProcess
+  version: 1.0.0
+  #文件上传路径，自己修改成windows或者linux路径(/home/ojq/mediaSource)
+  profile: D:/ojq/uploadPath
+
+server:
+  port: 8081
+
+spring:
+  application:
+    name: my-file-process
+
